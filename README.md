@@ -8,7 +8,7 @@ CSS: For styling the application and ensuring a visually appealing design.
 
 Here, the Preview Image of the Zomato clone:
 
-![Preview Image](Zomato-clone.png)
+![Preview Image](Zomato_clone.png)
 
 
 
