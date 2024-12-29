@@ -11,6 +11,9 @@ Here, the Preview Image of the Zomato clone:
 ![Preview Image](Zomato_clone.png)
 
 
+![Preview Image](Zomato_clone2.png)
+
+
 
 
 
